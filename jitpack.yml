@@ -1,3 +1,0 @@
-install:
-FILE="-Dfile=idmission-litesdk-9.3.1.4.aar"
-mvn install:install-file $FILE -DgroupId=com.vyyer.android -DartifactId=custom-idmission -Dversion=1.0.0 -Dpackaging=aar -DpomFile=pom.xml
